@@ -1,0 +1,5 @@
+{
+  "name": "Windows 11 Web OS",
+  "description": "A fully responsive, Windows-11-like web operating system built with React, TypeScript, and Tailwind CSS, featuring a Fluent design UI.",
+  "requestFramePermissions": []
+}
